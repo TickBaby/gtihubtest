@@ -14,3 +14,8 @@ local power3 = power(3)
 
 print(power2(4))   --the result is 16
 print(power3(5))   --the result is 125
+
+
+--lua 的单行注释
+--[[ lua 的多行注释
+是这样的]]

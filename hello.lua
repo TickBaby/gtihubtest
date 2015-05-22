@@ -13,3 +13,9 @@ end
 
 show()
 
+function show()
+	print("Thanks")
+end
+
+show()
+
